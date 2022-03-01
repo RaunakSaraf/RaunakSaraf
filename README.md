@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaunakSaraf
 - 👀 I’m interested in Data Analyst Profile Job
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me sarfaraunakdu1@gmail.com
 
 <!---
